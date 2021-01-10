@@ -11,7 +11,11 @@
 * Programs: Python, Jupyter Notebooks, GitHub, Spatial Data Science
 
 ## Project Ideas
-
+* Unhoused individuals' exposure to air quality during CA fires + vacant occupiable homes 
+* Types of housing (owner-occupied, rental) + exposure to health risks
+* Mapping informal settlements, areas where use value of land is prioritized by people
+* Mapping of insurgent practices (not sure if the data exists)
+* Can we map research data that isn't already in a dataset? 
 
 ## Course Objectives
 * Become comfortable with Python, Jupyter Notebooks, GitHub
