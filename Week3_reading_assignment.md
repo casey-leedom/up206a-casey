@@ -2,7 +2,7 @@
 
 #### Response
 
-After reading "Off the Grid... and Back Again? The Recent Evolution of American Street Network Planning and Design" by Geoff Boeing and listening to his talk with the previous class, I find it interested how he created a system to model street griddedness, tying in relevant variables and using mathematical analyses to produce results. I'm optimistic that griddedness, and therefore density, active transportation, and sustainability are making a comeback in American cities, since the current climate crisis calls for moves toward sustainable development practices. 
+After reading "Off the Grid... and Back Again? The Recent Evolution of American Street Network Planning and Design" by Geoff Boeing and listening to his talk with the previous class, I find it interesting how he created a system to model street griddedness, tying in relevant variables and using mathematical analyses to produce results. I'm optimistic that griddedness, and therefore density, active transportation, and sustainability are making a comeback in American cities, since the current climate crisis calls for moves toward sustainable development practices. 
 
 The paper left me with a couple thoughts and questions.
 
